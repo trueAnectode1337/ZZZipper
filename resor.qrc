@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/ico/ico">
+        <file>info.png</file>
+        <file>minus.png</file>
+        <file>plus.png</file>
+        <file>search.png</file>
+        <file>app_icon.png</file>
+        <file>add.png</file>
+        <file>m1.png</file>
+        <file>p1.png</file>
+        <file>i1.png</file>
+        <file>s1.png</file>
+        <file>f1.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ico/ico">
+        <file>q.ico</file>
+        <file>info.png</file>
+        <file>minus.png</file>
+        <file>plus.png</file>
+        <file>search.png</file>
+    </qresource>
+</RCC>
